@@ -91,7 +91,7 @@ Monitoring and post-launch activities include:
    |                       | Verify orbital insertion                  |
    +-----------------------+------------------------------------------+
 
-.. image:: GitHub/ReadTheDocs/HillaryIantosca/electricalinterfaces.jpeg
+.. image:: electricalinterfaces.jpeg
 
 Conclusion
 -----------
