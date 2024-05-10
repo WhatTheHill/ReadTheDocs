@@ -16,14 +16,17 @@ Before initiating the launch sequence, the following preparations must be comple
 
 - **Payload Integration**:
   - Ensure the payload is securely integrated into the payload fairing.
+  
   - Verify communication and power connections with the payload.
 
 - **Rocket Readiness**:
   - Check all vehicle systems for readiness, including propulsion, avionics, and structure.
+  
   - Perform final inspections of the rocket structure to ensure integrity.
 
 - **Propellant Loading**:
   - Begin loading RP-1 (rocket-grade kerosene) and liquid oxygen (LOX) into the rocket's tanks according to specified procedures.
+  
   - Monitor propellant loading parameters closely to ensure safety and efficiency.
 
 Launch Sequence
@@ -35,6 +38,7 @@ The countdown sequence and liftoff stages are as follows:
 
 2. **T-45 Minutes**:
    - Clear the launch pad area of all non-essential personnel.
+   
    - Ensure all safety protocols are followed.
 
 3. **T-10 Minutes**:
@@ -42,6 +46,7 @@ The countdown sequence and liftoff stages are as follows:
 
 4. **T-2 Minutes**:
    - Falcon 9 switches to internal power.
+   
    - Flight computer transitions to startup mode.
 
 5. **T-1 Minute**:
@@ -49,6 +54,7 @@ The countdown sequence and liftoff stages are as follows:
 
 6. **T-0 (Liftoff)**:
    - Falcon 9's engines ignite.
+   
    - Vehicle clears the pad and begins ascent to orbit.
 
 Post-launch Procedures
@@ -57,14 +63,17 @@ Monitoring and post-launch activities include:
 
 - **Ascent**:
   - Monitor vehicle telemetry and trajectory for nominal performance.
+  
   - Confirm separation of stages and fairing deployment if applicable.
 
 - **Stage Separation**:
   - Confirm separation of the first and second stages of the Falcon 9 rocket.
+  
   - Prepare for fairing deployment to expose the payload to space.
 
 - **Orbital Insertion**:
   - Ensure successful orbit insertion of the payload.
+  
   - Verify mission success based on mission objectives.
 
 .. table:: Falcon 9 Launch Checklist
